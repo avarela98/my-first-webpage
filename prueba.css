@@ -1,0 +1,46 @@
+div {
+	border: 1px solid black;
+}
+
+#header {
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+	text-aling center;
+}
+
+#sidebar {
+	float: left;
+	width: 30%;
+	overflow: hidden;
+}
+
+#content {
+	width: 68%;
+	border: 1px solid red;
+	float: left;	
+}
+
+.img-right {
+	float: right;
+}
+
+.img-left {
+	flaot: left;
+}
+
+#logo {
+	width: 50px;
+	float: right;
+}
+
+.img-small {
+	width: 100px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+
+
